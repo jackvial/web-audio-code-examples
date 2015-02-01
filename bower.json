@@ -1,0 +1,29 @@
+{
+  "name": "web-audio-code-examples",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jackvial/web-audio-code-examples",
+  "authors": [
+    "Jack Vial <vialjack@mail.com>"
+  ],
+  "description": "A collection of Web Audio API code examples",
+  "main": "index.html",
+  "keywords": [
+    "Web",
+    "Audio",
+    "API",
+    "JavaScript",
+    "Audio",
+    "Synth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
