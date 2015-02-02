@@ -1,0 +1,33 @@
+.waace-nav {
+	margin-bottom: 0;
+	background-color: #fff;
+	border-bottom: 0;
+}
+
+.waace-header, .waace-masthead {
+	position: relative;
+	padding: 30px 15px;
+	color: #cdbfe3;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1);
+	background-color: #6f5499;
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#282364),to(#549972));
+	/* background-image: -webkit-linear-gradient(top,#563d7c 0,#6f5499 100%); */
+	background-image: -o-linear-gradient(top,#282364 0,#549972 100%);
+	/* background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%); */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#282364', endColorstr='#549972', GradientType=0);
+/* background-repeat: repeat-x; */
+}
+
+footer {
+	height: 6em;
+}
+
+.social-icon a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.social-icon i {
+	font-size: 3em;
+}
